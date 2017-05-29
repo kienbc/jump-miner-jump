@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
