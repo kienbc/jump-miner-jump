@@ -18,7 +18,7 @@ public class SmallPillar extends Sprite {
     public SmallPillar(Bitmap animation, GameView gameView) {
         super(animation,gameView);
         setSpeedX(-15);
-        setxPos(1080); // test thoi
+        setxPos(gameView.getWidth());
     }
 
     @Override

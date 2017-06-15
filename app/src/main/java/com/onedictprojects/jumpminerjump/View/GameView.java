@@ -19,6 +19,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 import java.util.logging.Handler;
 
 
@@ -59,10 +60,6 @@ public class GameView extends SurfaceView implements Runnable, View.OnTouchListe
         mine.setyPos(groundTop.getHeight());
         mine.setGround(groundBottom);
         mine.setSky(groundTop);
-
-        // cho nay test
-        //smallPillar.setMiner(mine);
-        //pillars.add(smallPillar);
     }
 
     @Override
@@ -75,7 +72,7 @@ public class GameView extends SurfaceView implements Runnable, View.OnTouchListe
             if(!pillarCreated) {
                 //create a thread to create all pillars
                 createPillarThread = new CreatePillarThread();
-                threadHandler.postDelayed(createPillarThread,1200);
+                threadHandler.postDelayed(createPillarThread,2200);
 
                 pillarCreated = true;
             }
@@ -144,20 +141,30 @@ public class GameView extends SurfaceView implements Runnable, View.OnTouchListe
 
     class CreatePillarThread implements Runnable {
         public void run() {
-            SmallPillar pillar = new SmallPillar(BitmapFactory.decodeResource(getResources(),R.drawable.small_pillar),gameView);
-            pillar.setxPos(gameView.getWidth());
-            pillar.setyPos(randomYPos(gameView.getHeight()));
-            pillar.setMiner(mine);
-            pillar.setRunnable(this);
-            pillars.add(pillar);
-            threadHandler.postDelayed(this,1200);
+            int posY = randomYPos(700,gameView.getHeight()-400);
+
+            SmallPillar pillar1 = new SmallPillar(BitmapFactory.decodeResource(getResources(),R.drawable.small_pillar),gameView);
+            pillar1.setxPos(gameView.getWidth());
+            pillar1.setyPos(posY);
+            pillar1.setMiner(mine);
+            pillar1.setRunnable(this);
+            pillars.add(pillar1);
+
+            SmallPillar pillar2 = new SmallPillar(BitmapFactory.decodeResource(getResources(),R.drawable.small_pillar),gameView);
+            pillar2.setxPos(gameView.getWidth());
+            pillar2.setyPos(posY-gameView.getHeight());
+            pillar2.setMiner(mine);
+            pillar2.setRunnable(this);
+            pillars.add(pillar2);
+
+            threadHandler.postDelayed(this,2200);
         }
     }
 
-    public static int randomYPos(int number) {
+    public static int randomYPos(int min, int max) {
         Random rand = new Random();
 
-        return  rand.nextInt(number)-200;
+        return  rand.nextInt(max-min+1)+min;
     }
 
 }

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,31 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/kiencbui/.android/build-cache/056361a030eeade834d91f4166bb99860ff098ab/output/res/values/values.xml",
+                    "file": "E:\\home\\kiencbui\\.android\\build-cache\\056361a030eeade834d91f4166bb99860ff098ab\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\8fa0b7e16247439d5b9afba13c21ca60654f4ec0\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

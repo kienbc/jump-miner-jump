@@ -1,170 +1,342 @@
 [
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/big_pillar.png",
-        "source": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/src/main/res/drawable/big_pillar.png"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_edit_text_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firewall.png",
+        "source": "E:\\Projects\\Android\\JumpMinerJump\\app\\src\\main\\res\\drawable\\firewall.png"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/ground.png",
-        "source": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/src/main/res/drawable/ground.png"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\firewall.png",
+        "source": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\src\\main\\res\\drawable\\firewall.png"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/notification_bg.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ground.png",
+        "source": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\src\\main\\res\\drawable\\ground.png"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_vector_test.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/notification_icon_background.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_btn_colored_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/small_pillar.png",
-        "source": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/src/main/res/drawable/small_pillar.png"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/firewall.png",
-        "source": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/src/main/res/drawable/firewall.png"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/notification_tile_bg.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/notification_bg_low.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/home/kiencbui/MEGA/Projects/AndroidStudioProjects/JumpMinerJump/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/home/kiencbui/.android/build-cache/c31a55dec466357e33549ff327b98073680b009f/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_pillar.png",
+        "source": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\src\\main\\res\\drawable\\small_pillar.png"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ground.png",
+        "source": "E:\\Projects\\Android\\JumpMinerJump\\app\\src\\main\\res\\drawable\\ground.png"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\small_pillar.png",
+        "source": "E:\\Projects\\Android\\JumpMinerJump\\app\\src\\main\\res\\drawable\\small_pillar.png"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mine_sprite.png",
+        "source": "E:\\Projects\\Android\\JumpMinerJump\\app\\src\\main\\res\\drawable\\mine_sprite.png"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\big_pillar.png",
+        "source": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\src\\main\\res\\drawable\\big_pillar.png"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Bui Chi Kien\\.android\\build-cache\\9d4712434d8e67741cf99d446ad67000d9749721\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Projects\\Android\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\big_pillar.png",
+        "source": "E:\\Projects\\Android\\JumpMinerJump\\app\\src\\main\\res\\drawable\\big_pillar.png"
+    },
+    {
+        "merged": "E:\\home\\kiencbui\\MEGA\\Projects\\AndroidStudioProjects\\JumpMinerJump\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\home\\kiencbui\\.android\\build-cache\\c31a55dec466357e33549ff327b98073680b009f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     }
 ]

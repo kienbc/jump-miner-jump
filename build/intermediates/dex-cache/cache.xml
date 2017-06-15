@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\791fad2b0cab337e37006fc5ad1771a9743c5458\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ba66d11e3006019cbdbdca0a2b43c86928ecc14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Android\JumpMinerJump\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ce9eff1dea5a32493e9f14597ac3fce044192395">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7906384eda277cfb2e0bf277e467917e560adffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\0ea218c7fe813e97a0411a7b1e0e09873ae37483\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_31f2e41d54af31b6bc3f1acc0ab57618bace877a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Softwares\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_3c3745e8772a23764a9079170e4ef18dcc5aa0e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\9d4712434d8e67741cf99d446ad67000d9749721\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6950927bfbd50809a1d23cd1ef151e999ac3805c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\ead2a3c501ad7eb6b9993d03c2c3ea7ec76efc2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6fcb066da0a9b0a13aafd93994d537063b48cd11\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\ba595740fe35d309857ce82a81d04f9e65504fd0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2dc1c187936517b9225b80761640a89d4c41860b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\dd066a801f12bd4e8afc99cd5ae11c72042d8219\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a9ae2bac9fc2f9119aac260d1c65c7a09f618b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\99745a181cf27c6dcdd9c0c68fb2df05cdcc3c1e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e16e76bfbd2a8ae106b2f0d36ce811ffce8cedd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Softwares\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_b4077d2407aa5e2d65f67abc0d613a844e500c96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\b680b037e87fbc77afb742696bf9b600ff560ac2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae97c376c8e432bd6d951d1fa882f5233409cac3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\5f742f10a56fdb83274fa58546e4952e21f4385c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_259181b7f0b13dc72e6cbf8fb2376a3d5e463f83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Bui Chi Kien\.android\build-cache\1f40a263bdda374f75693c0bbde6c91fa0ecd7c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_118229e5a731868dcff1f37fc41b461cd97cc0ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Projects\Android\JumpMinerJump\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="E:\Projects\Android\JumpMinerJump\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_21358e2038bd15cbcdc64c892aacb4a9e1ed0e07\classes.dex" />
+    </item>
+
+</items>
